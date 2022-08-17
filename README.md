@@ -1,2 +1,4 @@
 # SpringSagaApplication
- EmployeeAPI Spring boot
+EmployeeAPI Spring boot;
+
+REST endpoints for CRUD opertations;
